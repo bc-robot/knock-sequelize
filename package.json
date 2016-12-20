@@ -1,0 +1,21 @@
+{
+  "name": "knock-sequelize",
+  "version": "0.0.1",
+  "description": "knock-sequelize",
+  "main": "index.js",
+  "dependencies": {
+    "co": "^4.6.0",
+    "mysql": "^2.12.0",
+    "sequelize": "^3.27.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bc-robot:/bc-robot/knock-sequelize"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
